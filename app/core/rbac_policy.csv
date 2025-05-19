@@ -1,0 +1,4 @@
+p, ceo, sales/orders, read
+p, ceo, sales/orders, write
+g, team_manager, ceo
+g, team_member, team_manager
